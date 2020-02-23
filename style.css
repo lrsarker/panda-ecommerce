@@ -38,3 +38,31 @@
 .categories img{
     width:100px;
 }
+.card{
+    border:none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top:none;
+}
+#subscribe{
+    height:300px;
+}
+#subscribe h6{
+    color:gray;
+}
+.subscribe-button{
+    background-image:linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius:8px;
+    padding: 5px 15px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+footer{
+    text-align: center;
+    padding-bottom: 10px;
+}
